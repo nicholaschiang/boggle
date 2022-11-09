@@ -305,7 +305,7 @@ void Boggle::setBoard(string boardValues[SIZE][SIZE])
 ```
 Now lets see how it works (if you got lost, copy v1/boggle.cpp into boggle.cpp)
 
-Run it with somethiing like
+Run it with something like
 ```
 ./boggle boards/board3.txt dictionary.txt 4
 ```
